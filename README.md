@@ -1,4 +1,5 @@
 # ProductGraphQlExample
+![Alt text](index.png "Title")
 <p>list</p>
 <p>curl -g 'http://localhost:8080/graphql?query={productList{id,name,price}}'</p>
 <p>create</p>
